@@ -80,7 +80,7 @@ fig = px.scatter(publishers_df, x='All Publications', y='FF Publications',  colo
                  color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
-                 #hover_data={'color':False},
+                 hover_data={'color': False},
                  trendline='ols',
                  trendline_scope='overall',
                  trendline_color_override='blue',
@@ -122,7 +122,7 @@ fig = px.scatter(publishers_df, x='All Publications', y='Percentage', color='col
                  color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
-                 #text='Name'
+                 hover_data={'color': False},
                  )
 
 fig.update_traces(textposition='top center')
@@ -255,7 +255,7 @@ fig = px.scatter(jnl_df, x='All Publications', y='FF Publications', color='color
                  color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
-                 #hover_data={'color':False},
+                 hover_data={'color': False},
                  trendline='ols',
                  trendline_scope='overall',
                  trendline_color_override='blue',
@@ -295,7 +295,7 @@ fig = px.scatter(jnl_df, x='All Publications', y='Percentage', color='color',
                  color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
-                 #text='Name'
+                 hover_data={'color': False},
                  )
 
 fig.update_traces(textposition='top center')
