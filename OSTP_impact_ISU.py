@@ -36,10 +36,10 @@ with st.expander("About:"):
 
 st.markdown("""---""")
 st.header('Number')
-st.write('The number of U.S. federally funded publications per year in Dimensions are:')
+st.write('The number of ISU U.S. federally funded publications per year in Dimensions are:')
 
 d = {'Year': [2021, 2020, 2019, 2018, 2017],
-    'Number': ['275,825', '277,407', '262,682', '259,518', '251,040']
+    'Number': ['1,772', '1,747', '1,756', '1,764', '1,677']
     }
 summary_df = pd.DataFrame(data=d)
 summary_df
@@ -51,8 +51,7 @@ if 'publishers_to_change' not in st.session_state:
     st.session_state.publishers_to_change = []
 if 'jnls_to_change' not in st.session_state:
     st.session_state.jnls_to_change = []
-if 'resorgs_to_change' not in st.session_state:
-    st.session_state.resorgs_to_change = []
+
 
 
 st.markdown("""---""")
@@ -68,9 +67,6 @@ selected_publishers = st.multiselect('Publisher Name:', pd.Series(publishers_df[
 
 if st.button('Find that Publisher'):
     for publisher_name in selected_publishers:
-        #st.write(f"changed name, {publisher_name}")
-        #clear_name_from_list(publisher_name)
-
         st.session_state.publishers_to_change.append(publisher_name)
         
 # Actually do the changes in df; this runs every time the script runs but session_state lets me save the previous changes
@@ -159,7 +155,7 @@ st.plotly_chart(fig, use_container_width=True)
 st.subheader('Open Access by percentage')
 
 sortby = st.radio(
-    'The following charts will show the highest 32 publishers. How do you want to sort?', ('Total Number of Federally Funded pubs', '% of Closed', '% of Green', '% of Gold', '% of Bronze', '% of Hybrid'))
+    'The following charts will show the highest 16 publishers. How do you want to sort?', ('Total Number of Federally Funded pubs', '% of Closed', '% of Green', '% of Gold', '% of Bronze', '% of Hybrid'))
 
 if sortby == 'Total Number of Federally Funded pubs':
     publishers_df = publishers_df.sort_values(by='FF Publications', ascending=False)
@@ -188,24 +184,7 @@ fig = px.histogram(publishers_df.iloc[:16], x='Name', y=['% OSTP Closed', '% OST
 
 fig.update_layout(
     height=700, width=1200,
-    title_text='ISU Open Access Status of U.S. Federally Funded Publications, by Publisher 2017-2021 <br> Numbers 1-16 based on condition selected',
-    xaxis_title='Publisher',
-    yaxis_title='ISU Percentage FF Publications by OA Mode',
-    legend_traceorder="reversed",
-    legend_title_text='OA Type'
-)
-
-st.plotly_chart(fig, use_container_width=True)
-
-fig = px.histogram(publishers_df.iloc[17:32], x='Name', y=['% OSTP Closed', '% OSTP Green', '% OSTP Gold', '% OSTP Bronze', '% OSTP Hybrid'],  # color='Mode',
-                   barnorm='percent', text_auto='.2f',
-                   color_discrete_sequence=[
-                       "gray", "green", "gold", "darkgoldenrod", "red"],
-                   title='Open Access status of FF publications')  # , facet_col='facet')
-
-fig.update_layout(
-    height=700, width=1200,
-    title_text='ISU Open Access Status of U.S. Federally Funded Publications, by Publisher 2017-2021 <br> Numbers 17-32 based on condition selected',
+    title_text='ISU % Open Access Status of U.S. Federally Funded Publications, by Publisher 2017-2021 <br> Numbers 1-16 based on condition selected',
     xaxis_title='Publisher',
     yaxis_title='ISU Percentage FF Publications by OA Mode',
     legend_traceorder="reversed",
@@ -216,6 +195,26 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 st.subheader('Open Access by absolute number')
+
+fig = px.histogram(publishers_df.iloc[:16], x='Name', y=['Closed', 'Green', 'Gold', 'Bronze', 'Hybrid'],
+                   text_auto='f',
+                   color_discrete_sequence=[
+                       "gray", "green", "gold", "darkgoldenrod", "red"],
+                   title='Open Access status of FF publications')  # , facet_col='facet')
+
+fig.update_layout(
+    height=700, width=1200,
+    title_text='ISU Open Access Status of U.S. Federally Funded Publications, by Publisher 2017-2021',
+    xaxis_title='Publisher',
+    yaxis_title='ISU Number FF Publications by OA Mode',
+    legend_traceorder="reversed",
+    legend_title_text='OA Type'
+)
+
+st.plotly_chart(fig, use_container_width=True)
+
+
+
 
 
 
@@ -330,7 +329,7 @@ st.subheader('Open Access by percentage')
 
 
 sortby = st.radio(
-    'The following charts will show the highest 32 journals. How do you want to sort?', ('Total Number of Federally Funded pubs', '% of Closed', '% of Green', '% of Gold', '% of Bronze', '% of Hybrid'))
+    'The following charts will show the highest 16 journals. How do you want to sort?', ('Total Number of Federally Funded pubs', '% of Closed', '% of Green', '% of Gold', '% of Bronze', '% of Hybrid'))
 
 if sortby == 'Total Number of Federally Funded pubs':
     jnl_df = jnl_df.sort_values(
@@ -370,17 +369,19 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 
-fig = px.histogram(jnl_df.iloc[17:32], x='Name', y=['% OSTP Closed', '% OSTP Green', '% OSTP Gold', '% OSTP Bronze', '% OSTP Hybrid'],  # color='Mode',
-                   barnorm='percent', text_auto='.2f',
+st.subheader('Open Access by absolute number')
+fig = px.histogram(jnl_df.iloc[:16], x='Name', y=['Closed', 'Green', 'Gold', 'Bronze', 'Hybrid'],
+                   #barnorm='percent', 
+                   text_auto='f',
                    color_discrete_sequence=[
                        "gray", "green", "gold", "darkgoldenrod", "red"],
                    title='Open Access status of FF publications')  # , facet_col='facet')
 
 fig.update_layout(
     height=700, width=1200,
-    title_text='ISU: % Open Access Status of U.S. Federally Funded Publications, by Journal Title 2017-2021',
+    title_text='ISU: Open Access Status of U.S. Federally Funded Publications, by Journal Title 2017-2021',
     xaxis_title='Journal Title',
-    yaxis_title='ISU Percentage FF Publications by OA Mode',
+    yaxis_title='ISU PercNumberentage FF Publications by OA Mode',
     legend_traceorder="reversed",
     legend_title_text='OA Type'
 )
