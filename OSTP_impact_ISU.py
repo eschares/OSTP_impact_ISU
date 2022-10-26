@@ -15,7 +15,7 @@ import plotly.express as px
 st.set_page_config(page_title='OSTP Impact ISU', page_icon="", layout='wide') #, initial_sidebar_state="expanded")
 
 
-st.markdown('# Impact of the 2022 OSTP Memo on ISU:')
+st.markdown('# Impact of the 2022 OSTP Memo on Iowa State')
 
 with st.expander("About:"):
     st.write("""
@@ -26,11 +26,9 @@ with st.expander("About:"):
 
         **Therefore, this study seeks to more deeply investigate the characteristics of U.S. federally funded research** over a 5-year period from 2017-2021 to better understand the impact of the updated guidance. It uses a manually created custom filter in the Dimensions database to return only publications that arise from U.S. federal funding.
         
-        Results show that an average of 265,000 articles are published each year that acknowledge U.S. federal funding agencies. These research outputs are further examined to look at patterns by publisher, journal title, institutions, and Open Access status.
-        
         Each section shows interactive charts and graphs both by absolute number and by percentage of total.
 
-        Additionally, you may search for a particular publisher, journal title, or research institution and label it and color it red to make it easier to distinguish on the graphs.
+        Additionally, you may search for a particular publisher or journal title to label and color it red to make it easier to distinguish on the graphs.
     """)
 
 
