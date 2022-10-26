@@ -99,7 +99,7 @@ fig.update_layout(
 
 
 publishers_df2 = publishers_df[(publishers_df['FF Publications'] > 550) | (publishers_df['All Publications'] > 880) | (
-    publishers_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State'))]
+    publishers_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State') | publishers_df['Name'].isin(selected_publishers))]
 num_rows = publishers_df2.shape[0]
 for i in range(num_rows):
     fig.add_annotation(x=np.log10(publishers_df2['All Publications']).iloc[i],
@@ -137,7 +137,7 @@ fig.update_layout(
 
 
 publishers_df2 = publishers_df[(publishers_df['All Publications'] > 500) | ((publishers_df['Percentage'] > 80) & (publishers_df['Percentage'] < 92)) | (
-    publishers_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State'))]
+    publishers_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State') | publishers_df['Name'].isin(selected_publishers))]
 num_rows = publishers_df2.shape[0]
 for i in range(num_rows):
     fig.add_annotation(x=np.log10(publishers_df2['All Publications']).iloc[i],
@@ -273,7 +273,7 @@ fig.update_layout(
 )
 
 jnl_df2 = jnl_df[(jnl_df['FF Publications'] > 550) | (jnl_df['All Publications'] > 100) | (
-    jnl_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State'))]
+    jnl_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State') | jnl_df['Name'].isin(selected_journals))]
 num_rows = jnl_df2.shape[0]
 for i in range(num_rows):
     fig.add_annotation(x=np.log10(jnl_df2['All Publications']).iloc[i],
@@ -310,7 +310,7 @@ fig.update_layout(
 
 
 jnl_df2 = jnl_df[(jnl_df['All Publications'] > 100) | ((jnl_df['Percentage'] > 800) & (jnl_df['Percentage'] < 902)) | (
-    jnl_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State'))]
+    jnl_df['Name'].str.contains('Lawrence Berk|Ridge National|Argonne|Iowa State') | jnl_df['Name'].isin(selected_journals))]
 num_rows = jnl_df2.shape[0]
 for i in range(num_rows):
     fig.add_annotation(x=np.log10(jnl_df2['All Publications']).iloc[i],
