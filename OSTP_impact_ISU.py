@@ -76,7 +76,8 @@ for name in st.session_state.publishers_to_change:
 
 ### Publishers ###
 st.subheader('By absolute number')
-fig = px.scatter(publishers_df, x='All Publications', y='FF Publications',  # color='color',
+fig = px.scatter(publishers_df, x='All Publications', y='FF Publications',  color='color',
+                 color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
                  #hover_data={'color':False},
@@ -117,7 +118,8 @@ st.write('R^2 is',px.get_trendline_results(fig).px_fit_results.iloc[0].rsquared)
 
 
 st.subheader('By percentage')
-fig = px.scatter(publishers_df, x='All Publications', y='Percentage',  # color='color',
+fig = px.scatter(publishers_df, x='All Publications', y='Percentage', color='color',
+                 color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
                  #text='Name'
@@ -249,7 +251,8 @@ for name in st.session_state.jnls_to_change:
 
 
 st.subheader('Absolute Number')
-fig = px.scatter(jnl_df, x='All Publications', y='FF Publications',  # color='color',
+fig = px.scatter(jnl_df, x='All Publications', y='FF Publications', color='color',
+                 color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
                  #hover_data={'color':False},
@@ -288,7 +291,8 @@ st.write('R^2 is',px.get_trendline_results(fig).px_fit_results.iloc[0].rsquared)
 
 
 st.subheader('Percentage')
-fig = px.scatter(jnl_df, x='All Publications', y='Percentage',  # color='color',
+fig = px.scatter(jnl_df, x='All Publications', y='Percentage', color='color',
+                 color_discrete_sequence=['blue', 'red'],
                  log_x='True',
                  hover_name='Name',
                  #text='Name'

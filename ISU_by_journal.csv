@@ -1,502 +1,502 @@
-"About the data: Analytical views - Source Title - Exported on Oct 25, 2022. Criteria: My groups is US YES federal funders; Publication Year is 2017 or 2018 or 2019 or 2020 or 2021; Country of Funder is United States; Research Organization is Iowa State University; Publication Type is not Preprint. © 2022 Digital Science &amp; Research Solutions Inc. All rights reserved. Parts of this work may also be protected by copyright of content providers and other third parties, which together with all rights of Digital Science, user agrees not to violate. Redistribution / external use of this work (or parts thereof) is prohibited without prior written approval. Please contact info@dimensions.ai for further information.",,,,,,,,,,,,,,,,,,,,
-ID,Name,Rank FF,FF Publications,Rank All,All Publications,Rank %,Percentage,All OA,Bronze,Closed,Gold,Green,Hybrid,sum,delta,% OSTP Bronze,% OSTP Closed,% OSTP Gold,% OSTP Green,% OSTP Hybrid
-jour.1320488,Physical Review B,1,242,2,256,37,94.53125,239,0,3,0,75,164,242,0,0,1.239669421,0,30.99173554,67.76859504
-jour.1320496,Physical Review D,2,147,5,149,27,98.65771812,147,0,0,0,5,142,147,0,0,0,0,3.401360544,96.59863946
-jour.1052482,Journal of High Energy Physics,3,145,6,148,30,97.97297297,145,0,0,145,0,0,145,0,0,0,100,0,0
-jour.1049394,European Physical Journal C,4,133,7,135,29,98.51851852,133,0,0,133,0,0,133,0,0,0,100,0,0
-jour.1045337,Scientific Reports,5,109,4,188,223,57.9787234,109,0,0,109,0,0,109,0,0,0,100,0,0
-jour.1018277,Physical Review Letters,6,104,8,108,32,96.2962963,104,0,0,0,12,92,104,0,0,0,0,11.53846154,88.46153846
-jour.1037553,PLOS ONE,7,98,3,191,257,51.30890052,98,0,0,98,0,0,98,0,0,0,100,0,0
-jour.1043282,Nature Communications,8,76,10,93,113,81.72043011,76,0,0,76,0,0,76,0,0,0,100,0,0
-jour.1094748,Physics Letters B,9,73,15,74,28,98.64864865,73,0,0,73,0,0,73,0,0,0,100,0,0
-jour.1320490,Physical Review C,10,57,20,57,1,100,57,0,0,0,9,48,57,0,0,0,0,15.78947368,84.21052632
-jour.1081898,Journal of the American Chemical Society,11,51,26,53,34,96.22641509,38,0,13,0,36,2,51,0,0,25.49019608,0,70.58823529,3.921568627
-jour.1045668,Frontiers in Plant Science,12,50,12,82,210,60.97560976,50,0,0,50,0,0,50,0,0,0,100,0,0
-jour.1082971,Proceedings of the National Academy of Sciences of the United States of America,13,49,22,56,66,87.5,49,22,0,0,12,15,49,0,44.89795918,0,0,24.48979592,30.6122449
-jour.1091000,Journal of Animal Science,13,49,1,476,350,10.29411765,48,22,1,0,14,12,49,0,44.89795918,2.040816327,0,28.57142857,24.48979592
-jour.1134140,The Astrophysical Journal,13,49,24,54,51,90.74074074,49,12,0,0,33,4,49,0,24.48979592,0,0,67.34693878,8.163265306
-jour.1222150,Lecture Notes in Computer Science,13,49,9,106,280,46.22641509,19,1,30,0,14,4,49,0,2.040816327,61.2244898,0,28.57142857,8.163265306
-jour.1038386,The Journal of Physical Chemistry C,17,47,26,53,65,88.67924528,33,0,14,0,32,1,47,0,0,29.78723404,0,68.08510638,2.127659574
-jour.1039813,Acta Materialia,18,44,33,47,41,93.61702128,37,20,7,0,14,3,44,0,45.45454545,15.90909091,0,31.81818182,6.818181818
-jour.1298114,Physical Review Materials,19,42,36,45,42,93.33333333,39,0,3,0,14,25,42,0,0,7.142857143,0,33.33333333,59.52380952
-jour.1033564,IEEE Transactions on Power Systems,20,38,30,50,149,76,33,1,5,0,14,18,38,0,2.631578947,13.15789474,0,36.84210526,47.36842105
-jour.1312251,The Journal of Physical Chemistry A,21,37,44,37,1,100,17,1,20,0,15,1,37,0,2.702702703,54.05405405,0,40.54054054,2.702702703
-jour.1127852,Chemistry of Materials,22,34,46,36,38,94.44444444,25,0,9,0,24,1,34,0,0,26.47058824,0,70.58823529,2.941176471
-jour.1017736,The Journal of Chemical Physics,23,32,57,33,31,96.96969697,27,4,5,0,23,0,32,0,12.5,15.625,0,71.875,0
-jour.1047176,IEEE Transactions on Smart Grid,23,32,44,37,83,86.48648649,26,0,6,0,11,15,32,0,0,18.75,0,34.375,46.875
-jour.1041450,ACS Applied Materials & Interfaces,25,31,39,41,150,75.6097561,15,0,16,0,14,1,31,0,0,51.61290323,0,45.16129032,3.225806452
-jour.1018314,Plant Physiology,26,30,41,39,140,76.92307692,30,14,0,0,2,14,30,0,46.66666667,0,0,6.666666667,46.66666667
-jour.1041821,Journal of Alloys and Compounds,26,30,52,35,85,85.71428571,30,15,0,0,14,1,30,0,50,0,0,46.66666667,3.333333333
-jour.1137016,Engineering Structures,28,29,26,53,244,54.71698113,13,8,16,0,5,0,29,0,27.5862069,55.17241379,0,17.24137931,0
-jour.1038953,Journal of Magnetism and Magnetic Materials,29,28,52,35,120,80,28,19,0,0,7,2,28,0,67.85714286,0,0,25,7.142857143
-jour.1100826,Physical Chemistry Chemical Physics,29,28,55,34,104,82.35294118,18,0,10,0,13,5,28,0,0,35.71428571,0,46.42857143,17.85714286
-jour.1023790,BMC Genomics,31,27,32,48,235,56.25,27,0,0,27,0,0,27,0,0,0,100,0,0
-jour.1046258,Journal of Instrumentation,31,27,64,29,43,93.10344828,27,0,0,0,10,17,27,0,0,0,0,37.03703704,62.96296296
-jour.1047634,Microbiology Resource Announcements,31,27,46,36,151,75,27,0,0,27,0,0,27,0,0,0,100,0,0
-jour.1017044,Angewandte Chemie International Edition,34,26,42,38,179,68.42105263,19,7,7,0,11,1,26,0,26.92307692,26.92307692,0,42.30769231,3.846153846
-jour.1023179,Angewandte Chemie,34,26,42,38,179,68.42105263,15,2,11,0,12,1,26,0,7.692307692,42.30769231,0,46.15384615,3.846153846
-jour.1044458,Frontiers in Microbiology,34,26,30,50,255,52,26,0,0,26,0,0,26,0,0,0,100,0,0
-jour.1045519,AIP Advances,34,26,46,36,166,72.22222222,26,0,0,26,0,0,26,0,0,0,100,0,0
-jour.1045560,"G3: Genes, Genomes, Genetics",34,26,55,34,147,76.47058824,26,0,0,26,0,0,26,0,0,0,100,0,0
-jour.1358263,Inorganic Chemistry,34,26,69,27,32,96.2962963,17,0,9,0,14,3,26,0,0,34.61538462,0,53.84615385,11.53846154
-jour.1015509,Journal of Environmental Quality,40,25,60,32,133,78.125,15,1,10,0,6,8,25,0,4,40,0,24,32
-jour.1045236,ACS Catalysis,40,25,64,29,84,86.20689655,18,0,7,0,18,0,25,0,0,28,0,72,0
-jour.1052367,Frontiers in Veterinary Science,40,25,13,81,331,30.86419753,25,0,0,25,0,0,25,0,0,0,100,0,0
-jour.1043052,Nanoscale,43,23,64,29,129,79.31034483,13,0,10,0,5,8,23,0,0,43.47826087,0,21.73913043,34.7826087
-jour.1126648,Agronomy Journal,43,23,16,69,326,33.33333333,19,1,4,0,7,11,23,0,4.347826087,17.39130435,0,30.43478261,47.82608696
-jour.1017429,The FASEB Journal,45,22,18,60,315,36.66666667,4,3,18,0,1,0,22,0,13.63636364,81.81818182,0,4.545454545,0
-jour.1038683,Green Chemistry,45,22,69,27,114,81.48148148,15,0,7,0,5,10,22,0,0,31.81818182,0,22.72727273,45.45454545
-jour.1126647,New Phytologist,45,22,69,27,114,81.48148148,18,9,4,0,4,5,22,0,40.90909091,18.18181818,0,18.18181818,22.72727273
-jour.1358290,Methods in Molecular Biology,45,22,46,36,208,61.11111111,4,0,18,0,4,0,22,0,0,81.81818182,0,18.18181818,0
-jour.1125016,Applied Physics Letters,49,21,79,24,66,87.5,14,0,7,0,14,0,21,0,0,33.33333333,0,66.66666667,0
-jour.1132303,Global Change Biology,49,21,76,25,101,84,15,8,6,0,2,5,21,0,38.0952381,28.57142857,0,9.523809524,23.80952381
-jour.1040436,Transportation Research Record Journal of the Transportation Research Board,51,20,14,75,333,26.66666667,2,0,18,0,2,0,20,0,0,90,0,10,0
-jour.1015499,The Science of The Total Environment,52,19,52,35,248,54.28571429,10,7,9,0,1,2,19,0,36.84210526,47.36842105,0,5.263157895,10.52631579
-jour.1031859,Journal of Physics Condensed Matter,52,19,97,20,35,95,18,0,1,0,18,0,19,0,0,5.263157895,0,94.73684211,0
-jour.1045144,Frontiers in Genetics,52,19,38,44,298,43.18181818,19,0,0,19,0,0,19,0,0,0,100,0,0
-jour.1052836,Construction and Building Materials,52,19,22,56,325,33.92857143,3,1,16,0,2,0,19,0,5.263157895,84.21052632,0,10.52631579,0
-jour.1102338,The Plant Journal,52,19,72,26,159,73.07692308,18,12,1,0,3,3,19,0,63.15789474,5.263157895,0,15.78947368,15.78947368
-jour.1126767,Soil Science Society of America Journal,52,19,46,36,254,52.77777778,7,1,12,0,3,3,19,0,5.263157895,63.15789474,0,15.78947368,15.78947368
-jour.1127266,Journal of Computational Physics,52,19,101,19,1,100,14,5,5,0,9,0,19,0,26.31578947,26.31578947,0,47.36842105,0
-jour.1018283,Poultry Science,59,18,36,45,304,40,18,0,0,9,0,9,18,0,0,0,50,0,50
-jour.1045166,Frontiers in Immunology,59,18,94,21,85,85.71428571,18,0,0,18,0,0,18,0,0,0,100,0,0
-jour.1048451,ACS Sustainable Chemistry & Engineering,59,18,57,33,245,54.54545455,7,0,11,0,6,1,18,0,0,61.11111111,0,33.33333333,5.555555556
-jour.1077136,Journal of Applied Physics,59,18,101,19,36,94.73684211,13,0,5,0,13,0,18,0,0,27.77777778,0,72.22222222,0
-jour.1085241,Applied and Environmental Microbiology,59,18,94,21,85,85.71428571,18,2,0,0,12,4,18,0,11.11111111,0,0,66.66666667,22.22222222
-jour.1023183,Crop Science,64,17,46,36,274,47.22222222,13,1,4,0,7,5,17,0,5.882352941,23.52941176,0,41.17647059,29.41176471
-jour.1028316,Nano Letters,64,17,118,17,1,100,13,0,4,0,13,0,17,0,0,23.52941176,0,76.47058824,0
-jour.1086616,Veterinary Microbiology,64,17,57,33,256,51.51515152,6,1,11,0,2,3,17,0,5.882352941,64.70588235,0,11.76470588,17.64705882
-jour.1114579,Chemistry - A European Journal,64,17,88,22,139,77.27272727,13,3,4,0,7,3,17,0,17.64705882,23.52941176,0,41.17647059,17.64705882
-jour.1137015,Computational Materials Science,64,17,101,19,58,89.47368421,8,4,9,0,4,0,17,0,23.52941176,52.94117647,0,23.52941176,0
-jour.1044605,Genes,69,16,111,18,59,88.88888889,16,0,0,16,0,0,16,0,0,0,100,0,0
-jour.1327455,International Journal of Heat and Mass Transfer,69,16,79,24,181,66.66666667,8,7,8,0,1,0,16,0,43.75,50,0,6.25,0
-jour.1345331,Analytical Chemistry,69,16,79,24,181,66.66666667,9,1,7,0,7,1,16,0,6.25,43.75,0,43.75,6.25
-jour.1358693,Analytical and Bioanalytical Chemistry,69,16,101,19,100,84.21052632,5,0,11,0,5,0,16,0,0,68.75,0,31.25,0
-jour.1005600,Ecology,73,15,130,16,39,93.75,13,3,2,0,7,3,15,0,20,13.33333333,0,46.66666667,20
-jour.1017622,Genetics,73,15,101,19,130,78.94736842,14,3,1,0,9,2,15,0,20,6.666666667,0,60,13.33333333
-jour.1038917,ACS Nano,73,15,101,19,130,78.94736842,9,1,6,0,8,0,15,0,6.666666667,40,0,53.33333333,0
-jour.1050249,Physical Review Applied,73,15,146,15,1,100,14,0,1,0,2,12,15,0,0,6.666666667,0,13.33333333,80
-jour.1050262,ACS Photonics,73,15,130,16,39,93.75,10,0,5,0,6,4,15,0,0,33.33333333,0,40,26.66666667
-jour.1312114,Journal of Materials Chemistry C,73,15,111,18,102,83.33333333,14,0,1,0,11,3,15,0,0,6.666666667,0,73.33333333,20
-jour.1319126,Translational Animal Science,73,15,33,47,330,31.91489362,15,0,0,15,0,0,15,0,0,0,100,0,0
-jour.1430766,Remote Sensing,73,15,97,20,151,75,15,0,0,14,1,0,15,0,0,0,93.33333333,6.666666667,0
-jour.1013552,Soil Biology and Biochemistry,81,14,118,17,104,82.35294118,9,4,5,0,4,1,14,0,28.57142857,35.71428571,0,28.57142857,7.142857143
-jour.1023201,The Astronomical Journal,81,14,159,14,1,100,14,4,0,0,10,0,14,0,28.57142857,0,0,71.42857143,0
-jour.1033315,Carbon,81,14,130,16,66,87.5,12,7,2,0,5,0,14,0,50,14.28571429,0,35.71428571,0
-jour.1033572,IEEE Sensors Journal,81,14,130,16,66,87.5,8,0,6,0,1,7,14,0,0,42.85714286,0,7.142857143,50
-jour.1050384,Animals,81,14,60,32,296,43.75,14,0,0,14,0,0,14,0,0,0,100,0,0
-jour.1077200,The Journal of Organic Chemistry,81,14,101,19,157,73.68421053,6,0,8,0,6,0,14,0,0,57.14285714,0,42.85714286,0
-jour.1297159,Chemical Communications,81,14,130,16,66,87.5,13,0,1,0,6,7,14,0,0,7.142857143,0,42.85714286,50
-jour.1320400,"The Minerals, Metals & Materials Series",81,14,130,16,66,87.5,2,0,12,0,2,0,14,0,0,85.71428571,0,14.28571429,0
-jour.1345383,Bioinformatics,81,14,118,17,104,82.35294118,12,3,2,0,2,7,14,0,21.42857143,14.28571429,0,14.28571429,50
-jour.1018982,Nucleic Acids Research,90,13,146,15,81,86.66666667,13,0,0,13,0,0,13,0,0,0,100,0,0
-jour.1026143,Journal of Fluid Mechanics,90,13,130,16,116,81.25,9,0,4,0,8,1,13,0,0,30.76923077,0,61.53846154,7.692307692
-jour.1027235,Nuclear Physics A,90,13,118,17,147,76.47058824,13,4,0,0,4,5,13,0,30.76923077,0,0,30.76923077,38.46153846
-jour.1031384,Organic & Biomolecular Chemistry,90,13,172,13,1,100,9,0,4,0,5,4,13,0,0,30.76923077,0,38.46153846,30.76923077
-jour.1041794,Discrete Applied Mathematics,90,13,130,16,116,81.25,12,9,1,0,3,0,13,0,69.23076923,7.692307692,0,23.07692308,0
-jour.1042285,GCB Bioenergy,90,13,172,13,1,100,13,0,0,12,1,0,13,0,0,0,92.30769231,7.692307692,0
-jour.1044186,Journal of Non-Crystalline Solids,90,13,146,15,81,86.66666667,7,4,6,0,2,1,13,0,30.76923077,46.15384615,0,15.38461538,7.692307692
-jour.1050243,Frontiers in Ecology and Evolution,90,13,130,16,116,81.25,13,0,0,13,0,0,13,0,0,0,100,0,0
-jour.1077138,Journal of Biological Chemistry,90,13,159,14,44,92.85714286,13,0,0,3,0,10,13,0,0,0,23.07692308,0,76.92307692
-jour.1100566,Journal of Veterinary Diagnostic Investigation,90,13,62,30,297,43.33333333,13,9,0,0,4,0,13,0,69.23076923,0,0,30.76923077,0
-jour.1102472,The Plant Cell,90,13,130,16,116,81.25,13,7,0,0,0,6,13,0,53.84615385,0,0,0,46.15384615
-jour.1104846,Journal of Chromatography A,90,13,159,14,44,92.85714286,0,0,0,0,0,0,0,-13,0,0,0,0,0
-jour.1124767,IEEE Transactions on Information Theory,90,13,172,13,1,100,0,0,0,0,0,0,0,-13,0,0,0,0,0
-jour.1346339,Science,90,13,88,22,217,59.09090909,0,0,0,0,0,0,0,-13,0,0,0,0,0
-jour.1017037,Analytica Chimica Acta,104,12,130,16,151,75,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1031548,The Journal of Physical Chemistry B,104,12,159,14,85,85.71428571,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1033312,Sensors,104,12,68,28,299,42.85714286,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1039309,Scripta Materialia,104,12,159,14,85,85.71428571,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1044868,Materials,104,12,72,26,281,46.15384615,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1077143,Journal of Dairy Science,104,12,20,57,344,21.05263158,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1100063,Biosensors and Bioelectronics,104,12,172,13,46,92.30769231,0,0,0,0,0,0,0,-12,0,0,0,0,0
-jour.1017742,Journal of Forensic Sciences,111,11,130,16,178,68.75,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1022968,Monthly Notices of the Royal Astronomical Society,111,11,111,18,208,61.11111111,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1031000,Field Crops Research,111,11,118,17,194,64.70588235,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1043112,The Journal of Physical Chemistry Letters,111,11,196,12,47,91.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1044002,Journal of Cleaner Production,111,11,62,30,315,36.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1126508,Langmuir,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1134206,"Journal of Agricultural, Biological and Environmental Statistics",111,11,159,14,132,78.57142857,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1136887,PeerJ,111,11,146,15,158,73.33333333,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1137110,Journal of Wind Engineering and Industrial Aerodynamics,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1137684,Weather and Forecasting,111,11,216,11,1,100,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1299734,Plant Direct,111,11,196,12,47,91.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1312290,Physical Review E,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0
-jour.1008072,Journal of Virology,123,10,118,17,218,58.82352941,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1014139,Genetics Selection Evolution,123,10,79,24,301,41.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1015489,Forensic Science International,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1018818,Review of Scientific Instruments,123,10,243,10,1,100,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1019991,IEEE Transactions on Instrumentation and Measurement,123,10,111,18,238,55.55555556,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1021332,Organic Letters,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1028874,International Journal of Molecular Sciences,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1029519,Applied Energy,123,10,130,16,200,62.5,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1033235,Plant Biotechnology Journal,123,10,130,16,200,62.5,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1033500,IEEE Transactions on Automatic Control,123,10,243,10,1,100,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1036821,The Plant Genome,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1040949,Statistical Analysis and Data Mining The ASA Data Science Journal,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1041790,Computer Methods in Applied Mechanics and Engineering,123,10,196,12,102,83.33333333,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1042541,JOM,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1043911,Discrete Mathematics,123,10,94,21,273,47.61904762,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1045551,Ecology and Evolution,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1047660,Ecosphere,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1047721,Journal of Materials Chemistry A,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1048491,Renewable Energy,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1076998,Talanta,123,10,216,11,49,90.90909091,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1077139,Journal of Chemical Education,123,10,40,40,334,25,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1101334,Molecular Plant-Microbe Interactions,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1129018,Advanced Materials,123,10,111,18,238,55.55555556,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1137600,International Journal of Plasticity,123,10,216,11,49,90.90909091,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1157000,ACS Omega,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1312241,Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0
-jour.1009619,Journal of the American Statistical Association,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1017521,Evolution,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1023439,Genome Biology,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1023501,ACS Symposium Series,149,9,72,26,324,34.61538462,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1023786,BMC Bioinformatics,149,9,196,12,151,75,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1026135,IEEE Transactions on Magnetics,149,9,88,22,303,40.90909091,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1029510,Agriculture Ecosystems & Environment,149,9,118,17,252,52.94117647,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1029977,Lab on a Chip,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1033314,Journal of Mechanical Design,149,9,146,15,211,60,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1035490,BMC Veterinary Research,149,9,76,25,320,36,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1044370,Chemical Science,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1045304,Building and Environment,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1045931,Remote Sensing of Environment,149,9,130,16,235,56.25,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1046291,International Journal for Parasitology Drugs and Drug Resistance,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1046517,eLife,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1052073,Advanced Optical Materials,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1053349,Physical Review A,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1053404,mSystems,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1094724,Vaccine,149,9,130,16,235,56.25,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1097753,Child & Youth Care Forum,149,9,118,17,252,52.94117647,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1120809,International Journal of Multiphase Flow,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1121212,IEEE Transactions on Signal Processing,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1125125,Organometallics,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1126163,Journal of Scientific Computing,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1131466,Powder Technology,149,9,111,18,258,50,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1135804,Theoretical and Applied Genetics,149,9,79,24,310,37.5,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1137748,Environmental Research Letters,149,9,172,13,177,69.23076923,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1159154,Agricultural and Environmental Letters,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1285194,npj Computational Materials,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1356686,mSphere,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0
-jour.1007902,Virology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1007934,Plant Disease,179,8,11,88,352,9.090909091,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1012116,Environmental Science and Technology,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1014820,Veterinary Pathology,179,8,97,20,304,40,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1023032,Plant Science,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1026101,Agricultural Systems,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1033068,IEEE/ACM Transactions on Computational Biology and Bioinformatics,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1034963,PLOS Pathogens,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1035309,Plant Methods,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1038900,Journal of Visualized Experiments,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1044080,Methods in Ecology and Evolution,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1046042,Insects,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1047670,Plants,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1051517,Science Advances,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1051634,Data in Brief,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1052744,Agronomy,179,8,88,22,317,36.36363636,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1081694,Environmental Entomology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1081849,JAWRA Journal of the American Water Resources Association,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1097816,Journal of Family Psychology,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1103138,Nature Genetics,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1119251,Metabolic Engineering,179,8,299,8,1,100,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1126745,Journal of Geophysical Research: Atmospheres,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1126746,Journal of Hydrology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1136292,Metallurgical and Materials Transactions A,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1137261,North American Journal of Fisheries Management,179,8,111,18,291,44.44444444,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1154197,International Journal of Pavement Research and Technology,179,8,118,17,275,47.05882353,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1284474,Nature Ecology & Evolution,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1312220,The Journals of Gerontology Series B,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1319923,Physics of Fluids,179,8,118,17,275,47.05882353,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1320076,ChemCatChem,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1367751,Plant Phenomics,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1377324,Physical Review Research,179,8,299,8,1,100,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1446077,Conference Proceedings of the Society for Experimental Mechanics Series,179,8,146,15,251,53.33333333,0,0,0,0,0,0,0,-8,0,0,0,0,0
-jour.1011551,Medicine & Science in Sports & Exercise,212,7,24,54,349,12.96296296,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1017362,Analyst,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1024638,BMC Plant Biology,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1026093,Astronomy & Astrophysics,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1026246,Energy & Fuels,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1029542,Ecology Letters,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1031133,Sensors and Actuators B Chemical,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1032876,Advanced Functional Materials,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1034502,Journal of Chemical Theory and Computation,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1034947,International Journal of Environmental Research and Public Health,212,7,64,29,336,24.13793103,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1035078,Nanotechnology,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1038065,Materials Science and Engineering A,212,7,172,13,249,53.84615385,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1041665,Genome Biology and Evolution,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1042492,mBio,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1042951,Journal of Power Sources,212,7,243,10,176,70,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1044096,AoB Plants,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1044924,Computers and Electronics in Agriculture,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1046153,ACS Synthetic Biology,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1046724,RSC Advances,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1048375,Physiological Reports,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1049404,Agricultural and Forest Meteorology,212,7,159,14,258,50,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1051401,Nature Plants,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1051417,Nano Energy,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1051594,Energy and Buildings,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1052750,The Astrophysical Journal Letters,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1077105,Journal of Molecular Biology,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1077144,Journal of Economic Entomology,212,7,97,20,323,35,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1090512,Journal of Analytical and Applied Pyrolysis,212,7,172,13,249,53.84615385,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1090899,Veterinary Immunology and Immunopathology,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1095198,Molecular Biology and Evolution,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1097257,Journal of Veterinary Internal Medicine,212,7,35,46,348,15.2173913,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1103749,Solid State Nuclear Magnetic Resonance,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1123338,AIChE Journal,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1137176,Agricultural Water Management,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1138624,Road Materials and Pavement Design,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1150500,Advanced Materials Technologies,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1297371,ChemPhysChem,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1312259,Proceedings of the Royal Society B,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1336311,Journal of Big Data Analytics in Transportation,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1346369,ACS Applied Polymer Materials,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1357547,Journal of Materials Research,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1398510,Viruses,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1398516,Water,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0
-jour.1013500,Journal of Experimental Biology,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1018580,Journal of Nutrition,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1021703,Prevention Science,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1027463,American Journal of Agricultural Economics,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1028796,Canadian Journal of Statistics,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1030494,Sensors and Actuators A Physical,255,6,273,9,181,66.66666667,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1031969,Journal of Experimental Zoology Part A Ecological and Integrative Physiology,255,6,299,8,151,75,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1031980,Plant Health Progress,255,6,79,24,334,25,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1032123,Philosophical Transactions of the Royal Society B Biological Sciences,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1035876,Geoderma,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1038948,New Journal of Physics,255,6,299,8,151,75,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1039457,BMC Research Notes,255,6,273,9,181,66.66666667,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1039872,Journal of Computational and Graphical Statistics,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1040295,Functional Ecology,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1045785,Wetlands,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1049475,Cold Regions Science and Technology,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1049631,Climate Dynamics,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1050631,IEEE Access,255,6,72,26,340,23.07692308,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1051361,Aerospace Science and Technology,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1051483,Frontiers in Molecular Biosciences,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1052510,Soil and Tillage Research,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1052634,Intermetallics,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1053136,Journal of Structural Engineering,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1087199,New Journal of Chemistry,255,6,216,11,245,54.54545455,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1093527,Preventive Veterinary Medicine,255,6,76,25,337,24,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1096739,Proteins Structure Function and Bioinformatics,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1116878,Journal of Magnetic Resonance,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1120918,Molecular Physics,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1126650,Geophysical Research Letters,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1126669,Journal of Experimental Botany,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1127662,Chemical Engineering Science,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1127675,Chemical Engineering Journal,255,6,216,11,245,54.54545455,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1135200,Combustion and Flame,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1137896,Journal of Bridge Engineering,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1139181,International Journal of Pavement Engineering,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1284793,IEEE Transactions on Circuits and Systems I Regular Papers,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1297421,Pest Management Science,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1297525,Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1299977,Nature Catalysis,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1312116,Journal of Materials Science,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0
-jour.1005696,Rural Sociology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1005962,Journal of Ecology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1007277,Journal of General Virology,295,5,196,12,301,41.66666667,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1016870,The International Journal of Aging and Human Development,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1017078,Biophysical Journal,295,5,29,51,351,9.803921569,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1023017,Systematic Botany,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1026229,Global Biogeochemical Cycles,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1029373,Developmental Cell,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1031137,Journal of Microelectromechanical Systems,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1031408,Nature Materials,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1034618,Journal of Biomedical Materials Research Part A,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1036189,Crystal Growth & Design,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1036458,Autophagy,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1037414,ACS Chemical Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1038301,Journal of Solid State Chemistry,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1038686,Applied Surface Science,295,5,172,13,309,38.46153846,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1040876,BioEnergy Research,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1042315,Database,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1044328,Agricultural Economics,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1046461,Physica B Condensed Matter,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1046556,Sustainability,295,5,88,22,341,22.72727273,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1046628,Systematic Reviews,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1047200,Organic Electronics,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1048347,Energy,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1048545,Nanomaterials,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1049888,Vaccines,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1049971,Frontiers in Cell and Developmental Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1050576,Frontiers in Environmental Science,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1051962,ACS Central Science,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1052082,Journal of Geophysical Research Earth Surface,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1052526,ACS Sensors,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1052623,Earth-Science Reviews,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1053654,Bulletin of the American Meteorological Society,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1082404,Journal of Chemical Information and Modeling,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1083533,Applied Microbiology and Biotechnology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1089662,NeuroToxicology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1090368,International Journal of Biological Macromolecules,295,5,159,14,321,35.71428571,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1109056,Phytopathology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1123507,IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1126651,Ecological Modelling,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1129941,Smart Materials and Structures,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1131238,IEEE Transactions on Knowledge and Data Engineering,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1133055,Bioresource Technology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1133814,Trends in Plant Science,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1136056,Acta Geotechnica,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1137132,Earth Surface Processes and Landforms,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1137178,Reliability Engineering & System Safety,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1137398,IFAC-PapersOnLine,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1137981,Journal of Hydrometeorology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1141177,Sustainable Cities and Society,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1144699,Journal of Aerospace Information Systems,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1147513,Additive Manufacturing,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1152687,Physical Review Fluids,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1272137,Agriculture,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1273178,Earth System Science Data,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1290460,npj Quantum Materials,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1294860,Molecular Plant,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1298739,ACS Applied Energy Materials,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1300829,Communications Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1319904,Transboundary and Emerging Diseases,295,5,86,23,342,21.73913043,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1327433,PLOS Computational Biology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1337088,Nanoscale Advances,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1387079,ECS Meeting Abstracts,295,5,17,63,353,7.936507937,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1412796,Biochemistry,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1430171,Journal of Environmental Management,295,5,159,14,321,35.71428571,0,0,0,0,0,0,0,-5,0,0,0,0,0
-jour.1004769,Zeitschrift für anorganische und allgemeine Chemie,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1005567,Journal of Colloid and Interface Science,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1010127,Accounts of Chemical Research,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1013522,Journal of Wildlife Diseases,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1014208,Developmental Psychology,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1015037,Insect Biochemistry and Molecular Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1016709,Macromolecules,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1017077,Biometrics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1017735,Journal of Cell Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1017749,Journal of Medical Entomology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1018807,Mayo Clinic Proceedings,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1021022,Veterinary Ophthalmology,360,4,86,23,346,17.39130435,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1023013,Molecular Plant Pathology,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1023054,Ecosystems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1023107,Journal of Herpetology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1026105,Computer Physics Communications,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1026238,Journal of Physics G Nuclear and Particle Physics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1026405,Chemical Geology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1027733,Dalton Transactions,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1028249,Structure,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1032615,The Philosophical Magazine A Journal of Theoretical Experimental and Applied Physics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1033003,Southwestern Entomologist,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1033528,IEEE/ACM Transactions on Networking,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1033555,IEEE Transactions on Parallel and Distributed Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1034525,Acta Biomaterialia,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1034720,Vadose Zone Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1037679,European Journal of Soil Science,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1038436,The ISME Journal: Multidisciplinary Journal of Microbial Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1039310,Linear Algebra and its Applications,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1039901,Applied Catalysis B Environmental,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1040301,The Annals of Applied Statistics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1040925,Theoretical Computer Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1041745,Journal of the American Ceramic Society,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1042183,Experiments in Fluids,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1042338,Mechanical Systems and Signal Processing,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1043096,Frontiers in Aging Neuroscience,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1043459,Toxins,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1044070,European Journal of Agronomy,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1044941,Advanced Energy Materials,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1045010,Journal of Nutrition in Gerontology and Geriatrics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1046697,Journal of Animal Science and Biotechnology,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1047537,Transportation Research Part C Emerging Technologies,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1047891,Cells,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1048005,Composite Structures,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1048478,Biosensors,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1049385,Boundary-Layer Meteorology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1049675,Microorganisms,360,4,216,11,317,36.36363636,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1050133,Frontiers in Bioengineering and Biotechnology,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1050437,Catalysis Science & Technology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1050678,Scientific Data,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1050710,Micromachines,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1051026,Royal Society Open Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1051522,Ceramics International,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1052084,Stat,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1052091,Journal of Integrated Pest Management,360,4,118,17,338,23.52941176,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1052495,Measurement,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1052627,European Journal of Combinatorics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1052658,Foods,360,4,172,13,332,30.76923077,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1054347,Journal of Physics D,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1076908,Biochemical Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1077147,Chemical Reviews,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1081604,Water Resources Research,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1084718,Ultramicroscopy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1085913,Psychoneuroendocrinology,360,4,88,22,345,18.18181818,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1091344,Placenta,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1092724,Children and Youth Services Review,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1092859,Toxicological Sciences,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1095413,Applied Animal Behaviour Science,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1095938,Veterinary Clinics of North America Food Animal Practice,360,4,118,17,338,23.52941176,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1101321,Current Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1102936,Molecular Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1113568,Neurobiology of Disease,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1116025,Journal of Agricultural Safety and Health,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1119070,Journal of Alzheimer's Disease,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1120663,Electrochimica Acta,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1120840,Journal of Environmental Economics and Management,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1121358,Computers & Fluids,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1122486,Journal of Computational Chemistry,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1126575,Plant and Soil,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1126601,Industrial & Engineering Chemistry Research,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1126813,Journal of Applied Statistics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1127263,Computational Mechanics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1129443,Biomass and Bioenergy,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1132096,Atmospheric Environment,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1133659,Journal of Multivariate Analysis,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1136043,International Journal of STEM Education,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1136823,Few-Body Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1137152,International Journal of Electrical Power & Energy Systems,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1137177,Composites Part B Engineering,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1137366,Journal of Combinatorial Theory Series B,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1137514,Energies,360,4,79,24,347,16.66666667,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1138632,Wind Energy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1139667,Biofuels Bioproducts and Biorefining,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1144011,IEEE Transactions on Control of Network Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1147662,Transportation Geotechnics,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1150266,ACS Energy Letters,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1155085,Chem,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1272851,Communications in Computer and Information Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1275342,"Modeling and Simulation in Science, Engineering and Technology",360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1284287,Journal of the European Ceramic Society,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1287104,Phytobiomes Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1292001,IEEE Transactions on Green Communications and Networking,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1297444,FEMS Microbiology Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1297486,ChemSusChem,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1298581,ACS Applied Nano Materials,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1299546,Journal of Transportation Engineering Part B Pavements,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1300470,Paleoceanography and Paleoclimatology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1312082,Journal of Climate,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1313722,Proceedings of the Human Factors and Ergonomics Society Annual Meeting,360,4,18,60,354,6.666666667,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1320081,Journal of Manufacturing Processes,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1320086,Journal of Graph Theory,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1327407,Food Policy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1327822,Chinese Physics C,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1380461,The Neuroradiology Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1382387,Agrosystems Geosciences & Environment,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1398640,Plant Breeding,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1399520,Annals of the New York Academy of Sciences,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1399818,Parasites & Vectors,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1412877,Journal of Industrial Microbiology & Biotechnology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1430722,Journal of Rural Studies,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1430755,Atmosphere,360,4,216,11,317,36.36363636,0,0,0,0,0,0,0,-4,0,0,0,0,0
-jour.1007697,Water Research,481,3,324,7,299,42.85714286,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1007849,Journal of Animal Breeding and Genetics,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1009586,Oecologia,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1009651,Physiology & Behavior,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1011822,Ornithological Applications,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1011872,Biology of Reproduction,481,3,299,8,310,37.5,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1012064,Methods in Enzymology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1013866,Journal of Wildlife Management,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1014502,Ecological Monographs,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1015694,Journal of Youth and Adolescence,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017681,Journal of Agricultural and Food Chemistry,481,3,159,14,343,21.42857143,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017682,Journal of Catalysis,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017724,The Gerontologist,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017744,Journal of Heredity,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017908,Psychosomatic Medicine,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1017948,Journal of Animal Ecology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1018957,Nature,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1019541,Toxicology and Applied Pharmacology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1019675,Cell and Tissue Research,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
-jour.1020227,Journal of Mass Spectrometry,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0
+"About the data: Analytical views - Source Title - Exported on Oct 25, 2022. Criteria: My groups is US YES federal funders; Publication Year is 2017 or 2018 or 2019 or 2020 or 2021; Country of Funder is United States; Research Organization is Iowa State University; Publication Type is not Preprint. © 2022 Digital Science &amp; Research Solutions Inc. All rights reserved. Parts of this work may also be protected by copyright of content providers and other third parties, which together with all rights of Digital Science, user agrees not to violate. Redistribution / external use of this work (or parts thereof) is prohibited without prior written approval. Please contact info@dimensions.ai for further information.",,,,,,,,,,,,,,,,,,,,,
+ID,Name,Rank FF,FF Publications,Rank All,All Publications,Rank %,Percentage,All OA,Bronze,Closed,Gold,Green,Hybrid,sum,delta,% OSTP Bronze,% OSTP Closed,% OSTP Gold,% OSTP Green,% OSTP Hybrid,color
+jour.1320488,Physical Review B,1,242,2,256,37,94.53125,239,0,3,0,75,164,242,0,0,1.239669421,0,30.99173554,67.76859504,blue
+jour.1320496,Physical Review D,2,147,5,149,27,98.65771812,147,0,0,0,5,142,147,0,0,0,0,3.401360544,96.59863946,blue
+jour.1052482,Journal of High Energy Physics,3,145,6,148,30,97.97297297,145,0,0,145,0,0,145,0,0,0,100,0,0,blue
+jour.1049394,European Physical Journal C,4,133,7,135,29,98.51851852,133,0,0,133,0,0,133,0,0,0,100,0,0,blue
+jour.1045337,Scientific Reports,5,109,4,188,223,57.9787234,109,0,0,109,0,0,109,0,0,0,100,0,0,blue
+jour.1018277,Physical Review Letters,6,104,8,108,32,96.2962963,104,0,0,0,12,92,104,0,0,0,0,11.53846154,88.46153846,blue
+jour.1037553,PLOS ONE,7,98,3,191,257,51.30890052,98,0,0,98,0,0,98,0,0,0,100,0,0,blue
+jour.1043282,Nature Communications,8,76,10,93,113,81.72043011,76,0,0,76,0,0,76,0,0,0,100,0,0,blue
+jour.1094748,Physics Letters B,9,73,15,74,28,98.64864865,73,0,0,73,0,0,73,0,0,0,100,0,0,blue
+jour.1320490,Physical Review C,10,57,20,57,1,100,57,0,0,0,9,48,57,0,0,0,0,15.78947368,84.21052632,blue
+jour.1081898,Journal of the American Chemical Society,11,51,26,53,34,96.22641509,38,0,13,0,36,2,51,0,0,25.49019608,0,70.58823529,3.921568627,blue
+jour.1045668,Frontiers in Plant Science,12,50,12,82,210,60.97560976,50,0,0,50,0,0,50,0,0,0,100,0,0,blue
+jour.1082971,Proceedings of the National Academy of Sciences of the United States of America,13,49,22,56,66,87.5,49,22,0,0,12,15,49,0,44.89795918,0,0,24.48979592,30.6122449,blue
+jour.1091000,Journal of Animal Science,13,49,1,476,350,10.29411765,48,22,1,0,14,12,49,0,44.89795918,2.040816327,0,28.57142857,24.48979592,blue
+jour.1134140,The Astrophysical Journal,13,49,24,54,51,90.74074074,49,12,0,0,33,4,49,0,24.48979592,0,0,67.34693878,8.163265306,blue
+jour.1222150,Lecture Notes in Computer Science,13,49,9,106,280,46.22641509,19,1,30,0,14,4,49,0,2.040816327,61.2244898,0,28.57142857,8.163265306,blue
+jour.1038386,The Journal of Physical Chemistry C,17,47,26,53,65,88.67924528,33,0,14,0,32,1,47,0,0,29.78723404,0,68.08510638,2.127659574,blue
+jour.1039813,Acta Materialia,18,44,33,47,41,93.61702128,37,20,7,0,14,3,44,0,45.45454545,15.90909091,0,31.81818182,6.818181818,blue
+jour.1298114,Physical Review Materials,19,42,36,45,42,93.33333333,39,0,3,0,14,25,42,0,0,7.142857143,0,33.33333333,59.52380952,blue
+jour.1033564,IEEE Transactions on Power Systems,20,38,30,50,149,76,33,1,5,0,14,18,38,0,2.631578947,13.15789474,0,36.84210526,47.36842105,blue
+jour.1312251,The Journal of Physical Chemistry A,21,37,44,37,1,100,17,1,20,0,15,1,37,0,2.702702703,54.05405405,0,40.54054054,2.702702703,blue
+jour.1127852,Chemistry of Materials,22,34,46,36,38,94.44444444,25,0,9,0,24,1,34,0,0,26.47058824,0,70.58823529,2.941176471,blue
+jour.1017736,The Journal of Chemical Physics,23,32,57,33,31,96.96969697,27,4,5,0,23,0,32,0,12.5,15.625,0,71.875,0,blue
+jour.1047176,IEEE Transactions on Smart Grid,23,32,44,37,83,86.48648649,26,0,6,0,11,15,32,0,0,18.75,0,34.375,46.875,blue
+jour.1041450,ACS Applied Materials & Interfaces,25,31,39,41,150,75.6097561,15,0,16,0,14,1,31,0,0,51.61290323,0,45.16129032,3.225806452,blue
+jour.1018314,Plant Physiology,26,30,41,39,140,76.92307692,30,14,0,0,2,14,30,0,46.66666667,0,0,6.666666667,46.66666667,blue
+jour.1041821,Journal of Alloys and Compounds,26,30,52,35,85,85.71428571,30,15,0,0,14,1,30,0,50,0,0,46.66666667,3.333333333,blue
+jour.1137016,Engineering Structures,28,29,26,53,244,54.71698113,13,8,16,0,5,0,29,0,27.5862069,55.17241379,0,17.24137931,0,blue
+jour.1038953,Journal of Magnetism and Magnetic Materials,29,28,52,35,120,80,28,19,0,0,7,2,28,0,67.85714286,0,0,25,7.142857143,blue
+jour.1100826,Physical Chemistry Chemical Physics,29,28,55,34,104,82.35294118,18,0,10,0,13,5,28,0,0,35.71428571,0,46.42857143,17.85714286,blue
+jour.1023790,BMC Genomics,31,27,32,48,235,56.25,27,0,0,27,0,0,27,0,0,0,100,0,0,blue
+jour.1046258,Journal of Instrumentation,31,27,64,29,43,93.10344828,27,0,0,0,10,17,27,0,0,0,0,37.03703704,62.96296296,blue
+jour.1047634,Microbiology Resource Announcements,31,27,46,36,151,75,27,0,0,27,0,0,27,0,0,0,100,0,0,blue
+jour.1017044,Angewandte Chemie International Edition,34,26,42,38,179,68.42105263,19,7,7,0,11,1,26,0,26.92307692,26.92307692,0,42.30769231,3.846153846,blue
+jour.1023179,Angewandte Chemie,34,26,42,38,179,68.42105263,15,2,11,0,12,1,26,0,7.692307692,42.30769231,0,46.15384615,3.846153846,blue
+jour.1044458,Frontiers in Microbiology,34,26,30,50,255,52,26,0,0,26,0,0,26,0,0,0,100,0,0,blue
+jour.1045519,AIP Advances,34,26,46,36,166,72.22222222,26,0,0,26,0,0,26,0,0,0,100,0,0,blue
+jour.1045560,"G3: Genes, Genomes, Genetics",34,26,55,34,147,76.47058824,26,0,0,26,0,0,26,0,0,0,100,0,0,blue
+jour.1358263,Inorganic Chemistry,34,26,69,27,32,96.2962963,17,0,9,0,14,3,26,0,0,34.61538462,0,53.84615385,11.53846154,blue
+jour.1015509,Journal of Environmental Quality,40,25,60,32,133,78.125,15,1,10,0,6,8,25,0,4,40,0,24,32,blue
+jour.1045236,ACS Catalysis,40,25,64,29,84,86.20689655,18,0,7,0,18,0,25,0,0,28,0,72,0,blue
+jour.1052367,Frontiers in Veterinary Science,40,25,13,81,331,30.86419753,25,0,0,25,0,0,25,0,0,0,100,0,0,blue
+jour.1043052,Nanoscale,43,23,64,29,129,79.31034483,13,0,10,0,5,8,23,0,0,43.47826087,0,21.73913043,34.7826087,blue
+jour.1126648,Agronomy Journal,43,23,16,69,326,33.33333333,19,1,4,0,7,11,23,0,4.347826087,17.39130435,0,30.43478261,47.82608696,blue
+jour.1017429,The FASEB Journal,45,22,18,60,315,36.66666667,4,3,18,0,1,0,22,0,13.63636364,81.81818182,0,4.545454545,0,blue
+jour.1038683,Green Chemistry,45,22,69,27,114,81.48148148,15,0,7,0,5,10,22,0,0,31.81818182,0,22.72727273,45.45454545,blue
+jour.1126647,New Phytologist,45,22,69,27,114,81.48148148,18,9,4,0,4,5,22,0,40.90909091,18.18181818,0,18.18181818,22.72727273,blue
+jour.1358290,Methods in Molecular Biology,45,22,46,36,208,61.11111111,4,0,18,0,4,0,22,0,0,81.81818182,0,18.18181818,0,blue
+jour.1125016,Applied Physics Letters,49,21,79,24,66,87.5,14,0,7,0,14,0,21,0,0,33.33333333,0,66.66666667,0,blue
+jour.1132303,Global Change Biology,49,21,76,25,101,84,15,8,6,0,2,5,21,0,38.0952381,28.57142857,0,9.523809524,23.80952381,blue
+jour.1040436,Transportation Research Record Journal of the Transportation Research Board,51,20,14,75,333,26.66666667,2,0,18,0,2,0,20,0,0,90,0,10,0,blue
+jour.1015499,The Science of The Total Environment,52,19,52,35,248,54.28571429,10,7,9,0,1,2,19,0,36.84210526,47.36842105,0,5.263157895,10.52631579,blue
+jour.1031859,Journal of Physics Condensed Matter,52,19,97,20,35,95,18,0,1,0,18,0,19,0,0,5.263157895,0,94.73684211,0,blue
+jour.1045144,Frontiers in Genetics,52,19,38,44,298,43.18181818,19,0,0,19,0,0,19,0,0,0,100,0,0,blue
+jour.1052836,Construction and Building Materials,52,19,22,56,325,33.92857143,3,1,16,0,2,0,19,0,5.263157895,84.21052632,0,10.52631579,0,blue
+jour.1102338,The Plant Journal,52,19,72,26,159,73.07692308,18,12,1,0,3,3,19,0,63.15789474,5.263157895,0,15.78947368,15.78947368,blue
+jour.1126767,Soil Science Society of America Journal,52,19,46,36,254,52.77777778,7,1,12,0,3,3,19,0,5.263157895,63.15789474,0,15.78947368,15.78947368,blue
+jour.1127266,Journal of Computational Physics,52,19,101,19,1,100,14,5,5,0,9,0,19,0,26.31578947,26.31578947,0,47.36842105,0,blue
+jour.1018283,Poultry Science,59,18,36,45,304,40,18,0,0,9,0,9,18,0,0,0,50,0,50,blue
+jour.1045166,Frontiers in Immunology,59,18,94,21,85,85.71428571,18,0,0,18,0,0,18,0,0,0,100,0,0,blue
+jour.1048451,ACS Sustainable Chemistry & Engineering,59,18,57,33,245,54.54545455,7,0,11,0,6,1,18,0,0,61.11111111,0,33.33333333,5.555555556,blue
+jour.1077136,Journal of Applied Physics,59,18,101,19,36,94.73684211,13,0,5,0,13,0,18,0,0,27.77777778,0,72.22222222,0,blue
+jour.1085241,Applied and Environmental Microbiology,59,18,94,21,85,85.71428571,18,2,0,0,12,4,18,0,11.11111111,0,0,66.66666667,22.22222222,blue
+jour.1023183,Crop Science,64,17,46,36,274,47.22222222,13,1,4,0,7,5,17,0,5.882352941,23.52941176,0,41.17647059,29.41176471,blue
+jour.1028316,Nano Letters,64,17,118,17,1,100,13,0,4,0,13,0,17,0,0,23.52941176,0,76.47058824,0,blue
+jour.1086616,Veterinary Microbiology,64,17,57,33,256,51.51515152,6,1,11,0,2,3,17,0,5.882352941,64.70588235,0,11.76470588,17.64705882,blue
+jour.1114579,Chemistry - A European Journal,64,17,88,22,139,77.27272727,13,3,4,0,7,3,17,0,17.64705882,23.52941176,0,41.17647059,17.64705882,blue
+jour.1137015,Computational Materials Science,64,17,101,19,58,89.47368421,8,4,9,0,4,0,17,0,23.52941176,52.94117647,0,23.52941176,0,blue
+jour.1044605,Genes,69,16,111,18,59,88.88888889,16,0,0,16,0,0,16,0,0,0,100,0,0,blue
+jour.1327455,International Journal of Heat and Mass Transfer,69,16,79,24,181,66.66666667,8,7,8,0,1,0,16,0,43.75,50,0,6.25,0,blue
+jour.1345331,Analytical Chemistry,69,16,79,24,181,66.66666667,9,1,7,0,7,1,16,0,6.25,43.75,0,43.75,6.25,blue
+jour.1358693,Analytical and Bioanalytical Chemistry,69,16,101,19,100,84.21052632,5,0,11,0,5,0,16,0,0,68.75,0,31.25,0,blue
+jour.1005600,Ecology,73,15,130,16,39,93.75,13,3,2,0,7,3,15,0,20,13.33333333,0,46.66666667,20,blue
+jour.1017622,Genetics,73,15,101,19,130,78.94736842,14,3,1,0,9,2,15,0,20,6.666666667,0,60,13.33333333,blue
+jour.1038917,ACS Nano,73,15,101,19,130,78.94736842,9,1,6,0,8,0,15,0,6.666666667,40,0,53.33333333,0,blue
+jour.1050249,Physical Review Applied,73,15,146,15,1,100,14,0,1,0,2,12,15,0,0,6.666666667,0,13.33333333,80,blue
+jour.1050262,ACS Photonics,73,15,130,16,39,93.75,10,0,5,0,6,4,15,0,0,33.33333333,0,40,26.66666667,blue
+jour.1312114,Journal of Materials Chemistry C,73,15,111,18,102,83.33333333,14,0,1,0,11,3,15,0,0,6.666666667,0,73.33333333,20,blue
+jour.1319126,Translational Animal Science,73,15,33,47,330,31.91489362,15,0,0,15,0,0,15,0,0,0,100,0,0,blue
+jour.1430766,Remote Sensing,73,15,97,20,151,75,15,0,0,14,1,0,15,0,0,0,93.33333333,6.666666667,0,blue
+jour.1013552,Soil Biology and Biochemistry,81,14,118,17,104,82.35294118,9,4,5,0,4,1,14,0,28.57142857,35.71428571,0,28.57142857,7.142857143,blue
+jour.1023201,The Astronomical Journal,81,14,159,14,1,100,14,4,0,0,10,0,14,0,28.57142857,0,0,71.42857143,0,blue
+jour.1033315,Carbon,81,14,130,16,66,87.5,12,7,2,0,5,0,14,0,50,14.28571429,0,35.71428571,0,blue
+jour.1033572,IEEE Sensors Journal,81,14,130,16,66,87.5,8,0,6,0,1,7,14,0,0,42.85714286,0,7.142857143,50,blue
+jour.1050384,Animals,81,14,60,32,296,43.75,14,0,0,14,0,0,14,0,0,0,100,0,0,blue
+jour.1077200,The Journal of Organic Chemistry,81,14,101,19,157,73.68421053,6,0,8,0,6,0,14,0,0,57.14285714,0,42.85714286,0,blue
+jour.1297159,Chemical Communications,81,14,130,16,66,87.5,13,0,1,0,6,7,14,0,0,7.142857143,0,42.85714286,50,blue
+jour.1320400,"The Minerals, Metals & Materials Series",81,14,130,16,66,87.5,2,0,12,0,2,0,14,0,0,85.71428571,0,14.28571429,0,blue
+jour.1345383,Bioinformatics,81,14,118,17,104,82.35294118,12,3,2,0,2,7,14,0,21.42857143,14.28571429,0,14.28571429,50,blue
+jour.1018982,Nucleic Acids Research,90,13,146,15,81,86.66666667,13,0,0,13,0,0,13,0,0,0,100,0,0,blue
+jour.1026143,Journal of Fluid Mechanics,90,13,130,16,116,81.25,9,0,4,0,8,1,13,0,0,30.76923077,0,61.53846154,7.692307692,blue
+jour.1027235,Nuclear Physics A,90,13,118,17,147,76.47058824,13,4,0,0,4,5,13,0,30.76923077,0,0,30.76923077,38.46153846,blue
+jour.1031384,Organic & Biomolecular Chemistry,90,13,172,13,1,100,9,0,4,0,5,4,13,0,0,30.76923077,0,38.46153846,30.76923077,blue
+jour.1041794,Discrete Applied Mathematics,90,13,130,16,116,81.25,12,9,1,0,3,0,13,0,69.23076923,7.692307692,0,23.07692308,0,blue
+jour.1042285,GCB Bioenergy,90,13,172,13,1,100,13,0,0,12,1,0,13,0,0,0,92.30769231,7.692307692,0,blue
+jour.1044186,Journal of Non-Crystalline Solids,90,13,146,15,81,86.66666667,7,4,6,0,2,1,13,0,30.76923077,46.15384615,0,15.38461538,7.692307692,blue
+jour.1050243,Frontiers in Ecology and Evolution,90,13,130,16,116,81.25,13,0,0,13,0,0,13,0,0,0,100,0,0,blue
+jour.1077138,Journal of Biological Chemistry,90,13,159,14,44,92.85714286,13,0,0,3,0,10,13,0,0,0,23.07692308,0,76.92307692,blue
+jour.1100566,Journal of Veterinary Diagnostic Investigation,90,13,62,30,297,43.33333333,13,9,0,0,4,0,13,0,69.23076923,0,0,30.76923077,0,blue
+jour.1102472,The Plant Cell,90,13,130,16,116,81.25,13,7,0,0,0,6,13,0,53.84615385,0,0,0,46.15384615,blue
+jour.1104846,Journal of Chromatography A,90,13,159,14,44,92.85714286,0,0,0,0,0,0,0,-13,0,0,0,0,0,blue
+jour.1124767,IEEE Transactions on Information Theory,90,13,172,13,1,100,0,0,0,0,0,0,0,-13,0,0,0,0,0,blue
+jour.1346339,Science,90,13,88,22,217,59.09090909,0,0,0,0,0,0,0,-13,0,0,0,0,0,blue
+jour.1017037,Analytica Chimica Acta,104,12,130,16,151,75,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1031548,The Journal of Physical Chemistry B,104,12,159,14,85,85.71428571,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1033312,Sensors,104,12,68,28,299,42.85714286,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1039309,Scripta Materialia,104,12,159,14,85,85.71428571,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1044868,Materials,104,12,72,26,281,46.15384615,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1077143,Journal of Dairy Science,104,12,20,57,344,21.05263158,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1100063,Biosensors and Bioelectronics,104,12,172,13,46,92.30769231,0,0,0,0,0,0,0,-12,0,0,0,0,0,blue
+jour.1017742,Journal of Forensic Sciences,111,11,130,16,178,68.75,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1022968,Monthly Notices of the Royal Astronomical Society,111,11,111,18,208,61.11111111,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1031000,Field Crops Research,111,11,118,17,194,64.70588235,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1043112,The Journal of Physical Chemistry Letters,111,11,196,12,47,91.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1044002,Journal of Cleaner Production,111,11,62,30,315,36.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1126508,Langmuir,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1134206,"Journal of Agricultural, Biological and Environmental Statistics",111,11,159,14,132,78.57142857,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1136887,PeerJ,111,11,146,15,158,73.33333333,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1137110,Journal of Wind Engineering and Industrial Aerodynamics,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1137684,Weather and Forecasting,111,11,216,11,1,100,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1299734,Plant Direct,111,11,196,12,47,91.66666667,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1312290,Physical Review E,111,11,172,13,97,84.61538462,0,0,0,0,0,0,0,-11,0,0,0,0,0,blue
+jour.1008072,Journal of Virology,123,10,118,17,218,58.82352941,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1014139,Genetics Selection Evolution,123,10,79,24,301,41.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1015489,Forensic Science International,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1018818,Review of Scientific Instruments,123,10,243,10,1,100,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1019991,IEEE Transactions on Instrumentation and Measurement,123,10,111,18,238,55.55555556,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1021332,Organic Letters,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1028874,International Journal of Molecular Sciences,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1029519,Applied Energy,123,10,130,16,200,62.5,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1033235,Plant Biotechnology Journal,123,10,130,16,200,62.5,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1033500,IEEE Transactions on Automatic Control,123,10,243,10,1,100,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1036821,The Plant Genome,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1040949,Statistical Analysis and Data Mining The ASA Data Science Journal,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1041790,Computer Methods in Applied Mechanics and Engineering,123,10,196,12,102,83.33333333,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1042541,JOM,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1043911,Discrete Mathematics,123,10,94,21,273,47.61904762,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1045551,Ecology and Evolution,123,10,159,14,167,71.42857143,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1047660,Ecosphere,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1047721,Journal of Materials Chemistry A,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1048491,Renewable Energy,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1076998,Talanta,123,10,216,11,49,90.90909091,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1077139,Journal of Chemical Education,123,10,40,40,334,25,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1101334,Molecular Plant-Microbe Interactions,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1129018,Advanced Materials,123,10,111,18,238,55.55555556,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1137600,International Journal of Plasticity,123,10,216,11,49,90.90909091,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1157000,ACS Omega,123,10,146,15,181,66.66666667,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1312241,Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment,123,10,172,13,140,76.92307692,0,0,0,0,0,0,0,-10,0,0,0,0,0,blue
+jour.1009619,Journal of the American Statistical Association,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1017521,Evolution,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1023439,Genome Biology,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1023501,ACS Symposium Series,149,9,72,26,324,34.61538462,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1023786,BMC Bioinformatics,149,9,196,12,151,75,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1026135,IEEE Transactions on Magnetics,149,9,88,22,303,40.90909091,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1029510,Agriculture Ecosystems & Environment,149,9,118,17,252,52.94117647,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1029977,Lab on a Chip,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1033314,Journal of Mechanical Design,149,9,146,15,211,60,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1035490,BMC Veterinary Research,149,9,76,25,320,36,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1044370,Chemical Science,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1045304,Building and Environment,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1045931,Remote Sensing of Environment,149,9,130,16,235,56.25,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1046291,International Journal for Parasitology Drugs and Drug Resistance,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1046517,eLife,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1052073,Advanced Optical Materials,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1053349,Physical Review A,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1053404,mSystems,149,9,216,11,107,81.81818182,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1094724,Vaccine,149,9,130,16,235,56.25,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1097753,Child & Youth Care Forum,149,9,118,17,252,52.94117647,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1120809,International Journal of Multiphase Flow,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1121212,IEEE Transactions on Signal Processing,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1125125,Organometallics,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1126163,Journal of Scientific Computing,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1131466,Powder Technology,149,9,111,18,258,50,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1135804,Theoretical and Applied Genetics,149,9,79,24,310,37.5,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1137748,Environmental Research Letters,149,9,172,13,177,69.23076923,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1159154,Agricultural and Environmental Letters,149,9,273,9,1,100,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1285194,npj Computational Materials,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1356686,mSphere,149,9,243,10,52,90,0,0,0,0,0,0,0,-9,0,0,0,0,0,blue
+jour.1007902,Virology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1007934,Plant Disease,179,8,11,88,352,9.090909091,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1012116,Environmental Science and Technology,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1014820,Veterinary Pathology,179,8,97,20,304,40,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1023032,Plant Science,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1026101,Agricultural Systems,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1033068,IEEE/ACM Transactions on Computational Biology and Bioinformatics,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1034963,PLOS Pathogens,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1035309,Plant Methods,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1038900,Journal of Visualized Experiments,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1044080,Methods in Ecology and Evolution,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1046042,Insects,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1047670,Plants,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1051517,Science Advances,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1051634,Data in Brief,179,8,196,12,181,66.66666667,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1052744,Agronomy,179,8,88,22,317,36.36363636,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1081694,Environmental Entomology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1081849,JAWRA Journal of the American Water Resources Association,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1097816,Journal of Family Psychology,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1103138,Nature Genetics,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1119251,Metabolic Engineering,179,8,299,8,1,100,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1126745,Journal of Geophysical Research: Atmospheres,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1126746,Journal of Hydrology,179,8,216,11,160,72.72727273,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1136292,Metallurgical and Materials Transactions A,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1137261,North American Journal of Fisheries Management,179,8,111,18,291,44.44444444,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1154197,International Journal of Pavement Research and Technology,179,8,118,17,275,47.05882353,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1284474,Nature Ecology & Evolution,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1312220,The Journals of Gerontology Series B,179,8,273,9,59,88.88888889,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1319923,Physics of Fluids,179,8,118,17,275,47.05882353,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1320076,ChemCatChem,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1367751,Plant Phenomics,179,8,243,10,120,80,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1377324,Physical Review Research,179,8,299,8,1,100,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1446077,Conference Proceedings of the Society for Experimental Mechanics Series,179,8,146,15,251,53.33333333,0,0,0,0,0,0,0,-8,0,0,0,0,0,blue
+jour.1011551,Medicine & Science in Sports & Exercise,212,7,24,54,349,12.96296296,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1017362,Analyst,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1024638,BMC Plant Biology,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1026093,Astronomy & Astrophysics,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1026246,Energy & Fuels,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1029542,Ecology Letters,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1031133,Sensors and Actuators B Chemical,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1032876,Advanced Functional Materials,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1034502,Journal of Chemical Theory and Computation,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1034947,International Journal of Environmental Research and Public Health,212,7,64,29,336,24.13793103,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1035078,Nanotechnology,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1038065,Materials Science and Engineering A,212,7,172,13,249,53.84615385,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1041665,Genome Biology and Evolution,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1042492,mBio,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1042951,Journal of Power Sources,212,7,243,10,176,70,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1044096,AoB Plants,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1044924,Computers and Electronics in Agriculture,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1046153,ACS Synthetic Biology,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1046724,RSC Advances,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1048375,Physiological Reports,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1049404,Agricultural and Forest Meteorology,212,7,159,14,258,50,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1051401,Nature Plants,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1051417,Nano Energy,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1051594,Energy and Buildings,212,7,216,11,195,63.63636364,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1052750,The Astrophysical Journal Letters,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1077105,Journal of Molecular Biology,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1077144,Journal of Economic Entomology,212,7,97,20,323,35,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1090512,Journal of Analytical and Applied Pyrolysis,212,7,172,13,249,53.84615385,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1090899,Veterinary Immunology and Immunopathology,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1095198,Molecular Biology and Evolution,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1097257,Journal of Veterinary Internal Medicine,212,7,35,46,348,15.2173913,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1103749,Solid State Nuclear Magnetic Resonance,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1123338,AIChE Journal,212,7,324,7,1,100,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1137176,Agricultural Water Management,212,7,146,15,277,46.66666667,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1138624,Road Materials and Pavement Design,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1150500,Advanced Materials Technologies,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1297371,ChemPhysChem,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1312259,Proceedings of the Royal Society B,212,7,273,9,134,77.77777778,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1336311,Journal of Big Data Analytics in Transportation,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1346369,ACS Applied Polymer Materials,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1357547,Journal of Materials Research,212,7,299,8,66,87.5,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1398510,Viruses,212,7,101,19,312,36.84210526,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1398516,Water,212,7,196,12,219,58.33333333,0,0,0,0,0,0,0,-7,0,0,0,0,0,blue
+jour.1013500,Journal of Experimental Biology,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1018580,Journal of Nutrition,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1021703,Prevention Science,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1027463,American Journal of Agricultural Economics,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1028796,Canadian Journal of Statistics,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1030494,Sensors and Actuators A Physical,255,6,273,9,181,66.66666667,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1031969,Journal of Experimental Zoology Part A Ecological and Integrative Physiology,255,6,299,8,151,75,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1031980,Plant Health Progress,255,6,79,24,334,25,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1032123,Philosophical Transactions of the Royal Society B Biological Sciences,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1035876,Geoderma,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1038948,New Journal of Physics,255,6,299,8,151,75,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1039457,BMC Research Notes,255,6,273,9,181,66.66666667,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1039872,Journal of Computational and Graphical Statistics,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1040295,Functional Ecology,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1045785,Wetlands,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1049475,Cold Regions Science and Technology,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1049631,Climate Dynamics,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1050631,IEEE Access,255,6,72,26,340,23.07692308,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1051361,Aerospace Science and Technology,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1051483,Frontiers in Molecular Biosciences,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1052510,Soil and Tillage Research,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1052634,Intermetallics,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1053136,Journal of Structural Engineering,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1087199,New Journal of Chemistry,255,6,216,11,245,54.54545455,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1093527,Preventive Veterinary Medicine,255,6,76,25,337,24,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1096739,Proteins Structure Function and Bioinformatics,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1116878,Journal of Magnetic Resonance,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1120918,Molecular Physics,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1126650,Geophysical Research Letters,255,6,324,7,85,85.71428571,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1126669,Journal of Experimental Botany,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1127662,Chemical Engineering Science,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1127675,Chemical Engineering Journal,255,6,216,11,245,54.54545455,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1135200,Combustion and Flame,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1137896,Journal of Bridge Engineering,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1139181,International Journal of Pavement Engineering,255,6,172,13,281,46.15384615,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1284793,IEEE Transactions on Circuits and Systems I Regular Papers,255,6,243,10,211,60,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1297421,Pest Management Science,255,6,196,12,258,50,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1297525,Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1299977,Nature Catalysis,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1312116,Journal of Materials Science,255,6,355,0,355,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,blue
+jour.1005696,Rural Sociology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1005962,Journal of Ecology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1007277,Journal of General Virology,295,5,196,12,301,41.66666667,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1016870,The International Journal of Aging and Human Development,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1017078,Biophysical Journal,295,5,29,51,351,9.803921569,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1023017,Systematic Botany,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1026229,Global Biogeochemical Cycles,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1029373,Developmental Cell,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1031137,Journal of Microelectromechanical Systems,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1031408,Nature Materials,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1034618,Journal of Biomedical Materials Research Part A,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1036189,Crystal Growth & Design,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1036458,Autophagy,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1037414,ACS Chemical Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1038301,Journal of Solid State Chemistry,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1038686,Applied Surface Science,295,5,172,13,309,38.46153846,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1040876,BioEnergy Research,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1042315,Database,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1044328,Agricultural Economics,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1046461,Physica B Condensed Matter,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1046556,Sustainability,295,5,88,22,341,22.72727273,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1046628,Systematic Reviews,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1047200,Organic Electronics,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1048347,Energy,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1048545,Nanomaterials,295,5,273,9,238,55.55555556,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1049888,Vaccines,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1049971,Frontiers in Cell and Developmental Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1050576,Frontiers in Environmental Science,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1051962,ACS Central Science,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1052082,Journal of Geophysical Research Earth Surface,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1052526,ACS Sensors,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1052623,Earth-Science Reviews,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1053654,Bulletin of the American Meteorological Society,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1082404,Journal of Chemical Information and Modeling,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1083533,Applied Microbiology and Biotechnology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1089662,NeuroToxicology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1090368,International Journal of Biological Macromolecules,295,5,159,14,321,35.71428571,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1109056,Phytopathology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1123507,IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1126651,Ecological Modelling,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1129941,Smart Materials and Structures,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1131238,IEEE Transactions on Knowledge and Data Engineering,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1133055,Bioresource Technology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1133814,Trends in Plant Science,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1136056,Acta Geotechnica,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1137132,Earth Surface Processes and Landforms,295,5,324,7,167,71.42857143,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1137178,Reliability Engineering & System Safety,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1137398,IFAC-PapersOnLine,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1137981,Journal of Hydrometeorology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1141177,Sustainable Cities and Society,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1144699,Journal of Aerospace Information Systems,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1147513,Additive Manufacturing,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1152687,Physical Review Fluids,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1272137,Agriculture,295,5,216,11,288,45.45454545,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1273178,Earth System Science Data,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1290460,npj Quantum Materials,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1294860,Molecular Plant,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1298739,ACS Applied Energy Materials,295,5,299,8,200,62.5,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1300829,Communications Biology,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1319904,Transboundary and Emerging Diseases,295,5,86,23,342,21.73913043,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1327433,PLOS Computational Biology,295,5,243,10,258,50,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1337088,Nanoscale Advances,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1387079,ECS Meeting Abstracts,295,5,17,63,353,7.936507937,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1412796,Biochemistry,295,5,355,0,355,0,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1430171,Journal of Environmental Management,295,5,159,14,321,35.71428571,0,0,0,0,0,0,0,-5,0,0,0,0,0,blue
+jour.1004769,Zeitschrift für anorganische und allgemeine Chemie,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1005567,Journal of Colloid and Interface Science,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1010127,Accounts of Chemical Research,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1013522,Journal of Wildlife Diseases,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1014208,Developmental Psychology,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1015037,Insect Biochemistry and Molecular Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1016709,Macromolecules,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1017077,Biometrics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1017735,Journal of Cell Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1017749,Journal of Medical Entomology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1018807,Mayo Clinic Proceedings,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1021022,Veterinary Ophthalmology,360,4,86,23,346,17.39130435,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1023013,Molecular Plant Pathology,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1023054,Ecosystems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1023107,Journal of Herpetology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1026105,Computer Physics Communications,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1026238,Journal of Physics G Nuclear and Particle Physics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1026405,Chemical Geology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1027733,Dalton Transactions,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1028249,Structure,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1032615,The Philosophical Magazine A Journal of Theoretical Experimental and Applied Physics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1033003,Southwestern Entomologist,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1033528,IEEE/ACM Transactions on Networking,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1033555,IEEE Transactions on Parallel and Distributed Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1034525,Acta Biomaterialia,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1034720,Vadose Zone Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1037679,European Journal of Soil Science,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1038436,The ISME Journal: Multidisciplinary Journal of Microbial Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1039310,Linear Algebra and its Applications,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1039901,Applied Catalysis B Environmental,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1040301,The Annals of Applied Statistics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1040925,Theoretical Computer Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1041745,Journal of the American Ceramic Society,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1042183,Experiments in Fluids,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1042338,Mechanical Systems and Signal Processing,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1043096,Frontiers in Aging Neuroscience,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1043459,Toxins,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1044070,European Journal of Agronomy,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1044941,Advanced Energy Materials,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1045010,Journal of Nutrition in Gerontology and Geriatrics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1046697,Journal of Animal Science and Biotechnology,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1047537,Transportation Research Part C Emerging Technologies,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1047891,Cells,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1048005,Composite Structures,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1048478,Biosensors,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1049385,Boundary-Layer Meteorology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1049675,Microorganisms,360,4,216,11,317,36.36363636,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1050133,Frontiers in Bioengineering and Biotechnology,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1050437,Catalysis Science & Technology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1050678,Scientific Data,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1050710,Micromachines,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1051026,Royal Society Open Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1051522,Ceramics International,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1052084,Stat,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1052091,Journal of Integrated Pest Management,360,4,118,17,338,23.52941176,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1052495,Measurement,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1052627,European Journal of Combinatorics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1052658,Foods,360,4,172,13,332,30.76923077,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1054347,Journal of Physics D,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1076908,Biochemical Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1077147,Chemical Reviews,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1081604,Water Resources Research,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1084718,Ultramicroscopy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1085913,Psychoneuroendocrinology,360,4,88,22,345,18.18181818,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1091344,Placenta,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1092724,Children and Youth Services Review,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1092859,Toxicological Sciences,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1095413,Applied Animal Behaviour Science,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1095938,Veterinary Clinics of North America Food Animal Practice,360,4,118,17,338,23.52941176,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1101321,Current Biology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1102936,Molecular Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1113568,Neurobiology of Disease,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1116025,Journal of Agricultural Safety and Health,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1119070,Journal of Alzheimer's Disease,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1120663,Electrochimica Acta,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1120840,Journal of Environmental Economics and Management,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1121358,Computers & Fluids,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1122486,Journal of Computational Chemistry,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1126575,Plant and Soil,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1126601,Industrial & Engineering Chemistry Research,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1126813,Journal of Applied Statistics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1127263,Computational Mechanics,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1129443,Biomass and Bioenergy,360,4,324,7,224,57.14285714,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1132096,Atmospheric Environment,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1133659,Journal of Multivariate Analysis,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1136043,International Journal of STEM Education,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1136823,Few-Body Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1137152,International Journal of Electrical Power & Energy Systems,360,4,273,9,291,44.44444444,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1137177,Composites Part B Engineering,360,4,243,10,304,40,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1137366,Journal of Combinatorial Theory Series B,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1137514,Energies,360,4,79,24,347,16.66666667,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1138632,Wind Energy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1139667,Biofuels Bioproducts and Biorefining,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1144011,IEEE Transactions on Control of Network Systems,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1147662,Transportation Geotechnics,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1150266,ACS Energy Letters,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1155085,Chem,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1272851,Communications in Computer and Information Science,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1275342,"Modeling and Simulation in Science, Engineering and Technology",360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1284287,Journal of the European Ceramic Society,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1287104,Phytobiomes Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1292001,IEEE Transactions on Green Communications and Networking,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1297444,FEMS Microbiology Ecology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1297486,ChemSusChem,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1298581,ACS Applied Nano Materials,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1299546,Journal of Transportation Engineering Part B Pavements,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1300470,Paleoceanography and Paleoclimatology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1312082,Journal of Climate,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1313722,Proceedings of the Human Factors and Ergonomics Society Annual Meeting,360,4,18,60,354,6.666666667,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1320081,Journal of Manufacturing Processes,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1320086,Journal of Graph Theory,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1327407,Food Policy,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1327822,Chinese Physics C,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1380461,The Neuroradiology Journal,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1382387,Agrosystems Geosciences & Environment,360,4,299,8,258,50,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1398640,Plant Breeding,360,4,196,12,326,33.33333333,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1399520,Annals of the New York Academy of Sciences,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1399818,Parasites & Vectors,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1412877,Journal of Industrial Microbiology & Biotechnology,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1430722,Journal of Rural Studies,360,4,355,0,355,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1430755,Atmosphere,360,4,216,11,317,36.36363636,0,0,0,0,0,0,0,-4,0,0,0,0,0,blue
+jour.1007697,Water Research,481,3,324,7,299,42.85714286,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1007849,Journal of Animal Breeding and Genetics,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1009586,Oecologia,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1009651,Physiology & Behavior,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1011822,Ornithological Applications,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1011872,Biology of Reproduction,481,3,299,8,310,37.5,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1012064,Methods in Enzymology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1013866,Journal of Wildlife Management,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1014502,Ecological Monographs,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1015694,Journal of Youth and Adolescence,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017681,Journal of Agricultural and Food Chemistry,481,3,159,14,343,21.42857143,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017682,Journal of Catalysis,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017724,The Gerontologist,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017744,Journal of Heredity,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017908,Psychosomatic Medicine,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1017948,Journal of Animal Ecology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1018957,Nature,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1019541,Toxicology and Applied Pharmacology,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1019675,Cell and Tissue Research,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
+jour.1020227,Journal of Mass Spectrometry,481,3,355,0,355,0,0,0,0,0,0,0,0,-3,0,0,0,0,0,blue
