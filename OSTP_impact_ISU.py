@@ -74,7 +74,9 @@ for name in st.session_state.publishers_to_change:
     publishers_df.loc[title_filter, 'color'] = 'red'
 
 
-### Publishers ###
+
+
+########### Publishers ############
 st.subheader('By absolute number')
 fig = px.scatter(publishers_df, x='All Publications', y='FF Publications',  color='color',
                  color_discrete_sequence=['blue', 'red'],
@@ -152,6 +154,9 @@ for i in range(num_rows):
 
 st.plotly_chart(fig, use_container_width=True)
 
+
+
+############ Publishers OA ##########
 st.subheader('Open Access by percentage')
 
 sortby = st.radio(
@@ -194,7 +199,7 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 
-st.subheader('Open Access by absolute number')
+st.subheader('Open Access by absolute number, selections controlled above')
 
 fig = px.histogram(publishers_df.iloc[:16], x='Name', y=['Closed', 'Green', 'Gold', 'Bronze', 'Hybrid'],
                    text_auto='f',
@@ -222,7 +227,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 st.markdown("""---""")
-### Journals ###
+######## Journals #########
 st.header('Journal Titles')
 
 jnl_df = pd.read_csv('ISU_by_journal.csv', header=1)
@@ -326,9 +331,8 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 
-
+####### By Journal OA #################
 st.subheader('Open Access by percentage')
-
 
 sortby = st.radio(
     'The following charts will show the highest 16 journals. How do you want to sort?', ('Total Number of Federally Funded pubs', '% of Closed', '% of Green', '% of Gold', '% of Bronze', '% of Hybrid'))
@@ -371,7 +375,7 @@ fig.update_layout(
 st.plotly_chart(fig, use_container_width=True)
 
 
-st.subheader('Open Access by absolute number')
+st.subheader('Open Access by absolute number, selections controlled above')
 fig = px.histogram(jnl_df.iloc[:16], x='Name', y=['Closed', 'Green', 'Gold', 'Bronze', 'Hybrid'],
                    #barnorm='percent', 
                    text_auto='f',
